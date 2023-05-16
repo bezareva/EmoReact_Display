@@ -1,5 +1,5 @@
 # EmoReact_Display
-QtPy5 generated interface for displaying changes in processed
+PyQt5 generated interface for displaying changes in processed
 physiological signals (EEG, ECG, GSR). 
 <hr>
 
