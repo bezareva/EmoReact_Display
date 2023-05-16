@@ -12,7 +12,8 @@ As can be seen in picture above, app enables user to change:
 - Test subject
 - EEG channel
 - Frequency band 
-After applying changes, user can export data into csv file.
+
+After applying changes, user can export data into csv file (including HRV parameters which are not dispalyed).
 
 ### Signal processing
 **EEG signals**
